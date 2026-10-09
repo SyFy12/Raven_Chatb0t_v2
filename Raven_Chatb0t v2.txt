@@ -1,0 +1,112 @@
+{
+  "greetings": [
+    {
+      "keywords": ["hello", "hi", "hey", "greetings"],
+      "answer": "Hello! I'm Raven. How can I help you?"
+    },
+    {
+      "keywords": ["good morning"],
+      "answer": "Good morning! I hope you're having a great day."
+    },
+    {
+      "keywords": ["good afternoon"],
+      "answer": "Good afternoon! What can I help you with?"
+    },
+    {
+      "keywords": ["good evening"],
+      "answer": "Good evening! It's nice to chat with you."
+    }
+  ],
+
+  "about": [
+    {
+      "keywords": ["what is your name", "whats your name", "who are you", "what should i call you"],
+      "answer": "I'm Raven, your custom chatbot."
+    },
+    {
+      "keywords": ["who made you", "who created you", "who built you"],
+      "answer": "I was created as a custom Raven Chatbot project."
+    },
+    {
+      "keywords": ["what can you do", "what do you do", "your abilities"],
+      "answer": "I can chat with you and answer questions from my built-in knowledge base."
+    }
+  ],
+
+  "technology": [
+    {
+      "keywords": ["what is android", "android"],
+      "answer": "Android is a mobile operating system used on smartphones, tablets, TVs, watches, and other devices."
+    },
+    {
+      "keywords": ["what is an apk", "apk"],
+      "answer": "An APK is an Android application package used to install an Android app."
+    },
+    {
+      "keywords": ["what is javascript", "javascript", "js"],
+      "answer": "JavaScript is a programming language commonly used to make websites and applications interactive."
+    },
+    {
+      "keywords": ["what is html", "html"],
+      "answer": "HTML is the markup language used to structure content on webpages."
+    },
+    {
+      "keywords": ["what is css", "css"],
+      "answer": "CSS controls the appearance and layout of webpages."
+    },
+    {
+      "keywords": ["what is linux", "linux"],
+      "answer": "Linux is an open-source operating-system kernel used by many operating systems, including Linux Mint and Ubuntu."
+    },
+    {
+      "keywords": ["what is kotlin", "kotlin"],
+      "answer": "Kotlin is a programming language widely used for Android development."
+    },
+    {
+      "keywords": ["what is java", "java programming"],
+      "answer": "Java is a programming language used for applications, Android development, servers, and many other projects."
+    }
+  ],
+
+  "pokemon": [
+    {
+      "keywords": ["what is pokemon", "pokemon"],
+      "answer": "Pokémon is a series of games and media where players catch, train, and battle creatures called Pokémon."
+    },
+    {
+      "keywords": ["what is pikachu", "pikachu"],
+      "answer": "Pikachu is an Electric-type Pokémon and one of the most recognizable Pokémon."
+    },
+    {
+      "keywords": ["what is charizard", "charizard"],
+      "answer": "Charizard is a Fire/Flying-type Pokémon and the final evolution of Charmander."
+    },
+    {
+      "keywords": ["what is squirtle", "squirtle"],
+      "answer": "Squirtle is a Water-type Pokémon and one of the original Kanto starters."
+    },
+    {
+      "keywords": ["what is bulbasaur", "bulbasaur"],
+      "answer": "Bulbasaur is a Grass/Poison-type Pokémon and one of the original Kanto starters."
+    }
+  ],
+
+  "conversation": [
+    {
+      "keywords": ["how are you", "how are you doing", "you doing"],
+      "answer": "I'm doing great! Thanks for asking."
+    },
+    {
+      "keywords": ["thank you", "thanks"],
+      "answer": "You're welcome!"
+    },
+    {
+      "keywords": ["help", "help me"],
+      "answer": "You can ask me about technology, programming, Pokémon, Android, Linux, or general conversation."
+    },
+    {
+      "keywords": ["tell me a joke", "joke", "make me laugh"],
+      "answer": "Why did the programmer quit his job? Because he didn't get arrays!"
+    }
+  ]
+}
